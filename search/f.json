@@ -41,7 +41,7 @@
     },
     {
         "nom": "Back to Black",
-        "affiche": "img/film/back-to-black/back-to-black-affiche.jpg",
+        "affiche": "img/film/back-to-black/Back-to-Black-affiche.jpg",
         "emplacement": "film/back-to-black.html"
     },
     {
@@ -176,7 +176,7 @@
     },
     {
         "nom": "Smile",
-        "affiche": "img/film/smile/smile-affiche.jpg",
+        "affiche": "img/film/Smile/Smile-affiche.jpg",
         "emplacement": "film/smile.html"
         
     },
